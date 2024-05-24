@@ -26,10 +26,40 @@
     {
       "name": "IBM",
       "position": "Sr. Chip Design Intern",
-      // "url": "https://example.com",
+      "url": "https://www.ibm.com/us-en",
       "startDate": "2024-05",
       "endDate": "2024-08",
       "summary": "Fetch unit design"
+      // "highlights": ["Relativity"]
+    },
+    {
+      "name": "ECE @ UIUC",
+      "position": "Course Assistant",
+      // "url": "https://example.com",
+      "startDate": "2022-01",
+      "endDate": "2024-05",
+      "summary": "",
+      "highlights": ["ECE 110 - Intro to Electronics", 
+                    "ECE 210 - Analog Signal Processing", 
+                    "ECE 220 - Computer Systems and Programming",
+                    "ECE 385 - Digital Systems Lab"]
+    },
+    {
+      "name": "IBM",
+      "position": "Chip Design Intern",
+      "url": "https://www.ibm.com/us-en",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "Branch prediction modeling",
+      "highlights": ["Computer Architecture","C++","Python"]
+    },
+    {
+      "name": "HCESC @ UIUC",
+      "position": "Research Assistant",
+      "url": "https://healtheng.illinois.edu/",
+      "startDate": "2023-03",
+      "endDate": "2023-05",
+      "summary": "Augmented reality clinical breast examination trainer using Arduino, force sensing array, and Unity"
       // "highlights": ["Relativity"]
     }
   ],
@@ -137,45 +167,54 @@
   // ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Computer Engineering",
+      "level": "Graduate Student",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Computer Architecture",
+        "VLSI Design",
+        "SystemVerilog",
+        "C/C++ Programming",
+        "Operating Systems",
+        "Analog/Digital Signal Processing"
+      ]
+    },
+    {
+      "name": "Hobbies",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Mountain Biking",
+        "Vegetating"
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  // "languages": [
+  //   {
+  //     "language": "German",
+  //     "fluency": "Native speaker",
+  //     "icon": ""
+  //   },
+  //   {
+  //     "language": "English",
+  //     "fluency": "Fluent",
+  //     "icon": ""
+  //   }
+  // ],
+  // "interests": [
+  //   {
+  //     "name": "Physics",
+  //     "icon": "fa-solid fa-tag",
+  //     "keywords": [
+  //       "Quantum Mechanics",
+  //       "Quantum Computing",
+  //       "Quantum Information",
+  //       "Quantum Cryptography",
+  //       "Quantum Communication",
+  //       "Quantum Teleportation"
+  //     ]
+  //   }
+  // ],
   // "references": [
   //   {
   //     "name": "Professor John Doe",
@@ -190,12 +229,12 @@
   // ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Superscalar, Out-of-Order RISC-V CPU",
+      "summary": "Built a 2-way superscalar Out-Of-Order RISC-V CPU using explicit register renaming supporting RISC-V(IM) ISA. Features include Dadda multiplier, Synopsis IP divider, BTB & BHT/GShare tournament branch predictor, 4-way set-associative PLRU pipelined caches with next-line prefetcher. Verified design using random coverage, Synopsys VCS and Verdi, Spike.",
+      "highlights": ["SystemVerilog", "Computer Architecture"],
+      "startDate": "2024-03-08",
+      "endDate": "2024-04-29"
+      // "url": "https://example.com"
     }
   ]
 }
