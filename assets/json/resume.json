@@ -29,8 +29,8 @@
       "url": "https://www.ibm.com/us-en",
       "startDate": "2024-05",
       "endDate": "2024-08",
-      "summary": "Pre-silicon performance verification"
-      // "highlights": ["Relativity"]
+      "summary": "Pre-silicon performance verification",
+      "highlights": ["Computer Architecture", "C/C++", "Assembly", "Python"]
     },
     {
       "name": "ECE @ UIUC",
