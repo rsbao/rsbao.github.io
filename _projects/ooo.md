@@ -8,7 +8,7 @@ category: school
 related_publications: false
 ---
 ## Overview
-For ECE 411's mp_ooo my team (Basic Macro Devices); Jake Cheng, Allen Peng, and I, completed a fully functioning out-of-order execution cpu in SystemVerilog. We used explicit register renaming in order to maintain in order commits while exploiting instruction level parallelism (ILP) to increase instruction throughput.
+For ECE 411's mp_ooo my team (Basic Macro Devices); [Jake Cheng](https://www.linkedin.com/in/jake-cheng-jiajun/), Allen Peng, and I, completed a fully functioning out-of-order execution cpu in SystemVerilog; we were advised by CA [Ian Dailis](https://www.linkedin.com/in/iandailis/). We used explicit register renaming in order to maintain in order commits while exploiting instruction level parallelism (ILP) to increase instruction throughput.
 
 In addition to the base functionality, we added several advanced features to further boost performance. 
 

@@ -92,6 +92,6 @@ Stacking 32 bitslices and connecting control and I/O signals gives us this lovel
     Full datapath
 </div>
 ## Acknowledgements
-Thanks to classmates/friends Jake Cheng, Amaan Shah, and Jack Tipping for staying many days and nights in Grainger 4th floor working on this abomination. Also thanks to TA Stanley Wu for creating this mental torture device!
+Thanks to classmates/friends [Jake Cheng](https://www.linkedin.com/in/jake-cheng-jiajun/), [Amaan Shah](https://www.linkedin.com/in/amaan-rehman-shah/), and [Jack Tipping](https://www.linkedin.com/in/jack-tipping/) for staying many days and nights in Grainger 4th floor working on this abomination. Also thanks to TA [Stanley Wu](https://www.linkedin.com/in/stanley-z-wu/) for creating this mental torture device!
 
 
