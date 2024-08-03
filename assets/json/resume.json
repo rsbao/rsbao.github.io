@@ -233,8 +233,16 @@
       "summary": "Built a 2-way superscalar Out-Of-Order RISC-V CPU using explicit register renaming supporting RISC-V(IM) ISA. Features include Dadda multiplier, Synopsis IP divider, BTB & BHT/GShare tournament branch predictor, 4-way set-associative PLRU pipelined caches with next-line prefetcher. Verified design using random coverage, Synopsys VCS and Verdi, Spike.",
       "highlights": ["SystemVerilog", "Computer Architecture"],
       "startDate": "2024-03-08",
-      "endDate": "2024-04-29"
-      // "url": "https://example.com"
+      "endDate": "2024-04-29",
+      "url": "https://rsbao.github.io/projects/ooo/"
+    },
+    {
+      "name": "32-bit RISC-V Datapath Layout",
+      "summary": "Hand laid out a bit-sliced RISC-V Datapath, starting from basic cells (NAND,NOR,DFF,etc.), progressing to ALU, register file, shifter, etc., and finally to the full datapath.",
+      "highlights": ["SystemVerilog", "Computer Architecture"],
+      "startDate": "2024-03-08",
+      "endDate": "2024-04-29",
+      "url": "https://rsbao.github.io/projects/vlsi/"
     }
   ]
 }
