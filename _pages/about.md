@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS/PhD ECE @ <a href='https://ece.illinois.edu/'>UIUC</a>
+subtitle: MS ECE @ <a href='https://ece.illinois.edu/'>UIUC</a>
 
 profile:
   align: right
@@ -23,4 +23,4 @@ social: true # includes social icons at the bottom of the page
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-Hi, I'm Robert! Originally from Maryland, I now find myself in the midst of cornfields studying how to most effectively turn rocks into computers. I graduated from UIUC with a Bachelor's in Computer Engineering + Highest Honors in three years and am continuing on to an MS/PhD. I will be advised by [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/).
+Hi, I'm Robert! Originally from Maryland, I now find myself amidst cornfields studying how to most effectively turn rocks into computers. I graduated from UIUC with a Bachelor's in Computer Engineering + Highest Honors in three years and am currently pursuing an MS in ECE. I am advised by [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/).
