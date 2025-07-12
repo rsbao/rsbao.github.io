@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Robert Bao",
-    "label": "MS/PhD Student",
+    "label": "MS Student",
     "image": "",
     "email": "rsbao2@illinois.edu",
     "phone": "240-750-7079",
@@ -24,11 +24,39 @@
   },
   "work": [
     {
+      "name": "ECE @ UIUC",
+      "position": "Research Assistant",
+      // "url": "https://example.com",
+      "startDate": "2024-8",
+      "endDate": "2026-5",
+      "summary": "Waferscale Silicon Photonics",
+      "highlights": ["Waferscale Silicon Photonics Systems: A Cost-Benefit Analysis and Optimization - ICCAD '25",
+    "Waferscale Silicon Photonic Architectures for Low-Latency LLM Inference - Under Submission"]
+    },
+    {
+      "name": "ECE @ UIUC",
+      "position": "Teaching Assistant",
+      // "url": "https://example.com",
+      "startDate": "2025-6",
+      "endDate": "2025-8",
+      "summary": "",
+      "highlights": ["ECE 313 - Probability with Engineering Applications"]
+    },
+    {
+      "name": "ECE @ UIUC",
+      "position": "Teaching Assistant",
+      // "url": "https://example.com",
+      "startDate": "2024-8",
+      "endDate": "2024-12",
+      "summary": "",
+      "highlights": ["ECE 385 - Digital Systems Lab"]
+    },
+    {
       "name": "IBM",
       "position": "Sr. Chip Design Intern",
       "url": "https://www.ibm.com/us-en",
-      "startDate": "2024-05",
-      "endDate": "2024-08",
+      "startDate": "2024-5",
+      "endDate": "2024-8",
       "summary": "Pre-silicon performance verification",
       "highlights": ["Computer Architecture", "C/C++", "Assembly", "Python"]
     },
@@ -48,8 +76,8 @@
       "name": "IBM",
       "position": "Chip Design Intern",
       "url": "https://www.ibm.com/us-en",
-      "startDate": "2023-05",
-      "endDate": "2023-08",
+      "startDate": "2023-5",
+      "endDate": "2023-8",
       "summary": "Branch prediction modeling",
       "highlights": ["Computer Architecture","C++","Python"]
     },
@@ -57,8 +85,8 @@
       "name": "HCESC @ UIUC",
       "position": "Research Assistant",
       "url": "https://healtheng.illinois.edu/",
-      "startDate": "2023-03",
-      "endDate": "2023-05",
+      "startDate": "2023-3",
+      "endDate": "2023-5",
       "summary": "Augmented reality clinical breast examination trainer using Arduino, force sensing array, and Unity"
       // "highlights": ["Relativity"]
     }
@@ -81,11 +109,23 @@
       "location": "Urbana, IL",
       "url": "https://ece.illinois.edu/",
       "area": "Computer Architecture",
-      "studyType": "MS/PhD",
+      "studyType": "Master of Science",
       "startDate": "2024-8",
-      "endDate": "2029-5",
+      "endDate": "2026-5",
       // "score": "10",
-      "courses": ["Advanced VLSI Design",
+      "courses": ["Computer Architecture",
+                  "Emerging Memory/Storage Systems"]
+    },
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "location": "Urbana, IL",
+      "url": "https://ece.illinois.edu/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor's of Science",
+      "startDate": "2021-8",
+      "endDate": "2024-5",
+      // "score": "4.0",
+      "courses": ["VLSI Design",
                   "Computer Architecture"]
     }
   ],
