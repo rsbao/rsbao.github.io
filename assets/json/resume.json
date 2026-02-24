@@ -31,33 +31,24 @@
       "endDate": "2026-5",
       "summary": "Waferscale Silicon Photonics",
       "highlights": ["Waferscale Silicon Photonics Systems: A Cost-Benefit Analysis and Optimization - ICCAD '25",
-    "Waferscale Silicon Photonic Architectures for Low-Latency LLM Inference - Under Submission"]
-    },
-    {
-      "name": "ECE @ UIUC",
-      "position": "Teaching Assistant",
-      // "url": "https://example.com",
-      "startDate": "2025-6",
-      "endDate": "2025-8",
-      "summary": "",
-      "highlights": ["ECE 313 - Probability with Engineering Applications"]
+    "Some other stuff under Submission"]
     },
     {
       "name": "ECE @ UIUC",
       "position": "Teaching Assistant",
       // "url": "https://example.com",
       "startDate": "2024-8",
-      "endDate": "2024-12",
+      "endDate": "Present",
       "summary": "",
-      "highlights": ["ECE 385 - Digital Systems Lab"]
+      "highlights": ["ECE 411 - Computer Organization & Design","ECE 313 - Probability with Engineering Applications","ECE 385 - Digital Systems Lab"]
     },
     {
       "name": "IBM",
-      "position": "Sr. Chip Design Intern",
+      "position": "Pre-silicon Performance Verification Intern",
       "url": "https://www.ibm.com/us-en",
       "startDate": "2024-5",
       "endDate": "2024-8",
-      "summary": "Pre-silicon performance verification",
+      "summary": "scripting",
       "highlights": ["Computer Architecture", "C/C++", "Assembly", "Python"]
     },
     {
@@ -74,11 +65,11 @@
     },
     {
       "name": "IBM",
-      "position": "Chip Design Intern",
+      "position": "Processor Logic Design Intern",
       "url": "https://www.ibm.com/us-en",
       "startDate": "2023-5",
       "endDate": "2023-8",
-      "summary": "Branch prediction modeling",
+      "summary": "branch prediction modeling",
       "highlights": ["Computer Architecture","C++","Python"]
     },
     {
@@ -224,8 +215,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Mountain Biking",
-        "Vegetating"
+        "Mountain Biking"
       ]
     }
   ],
