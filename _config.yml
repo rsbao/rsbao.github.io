@@ -207,7 +207,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -244,6 +244,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
+  - jekyll-socials
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-toc
