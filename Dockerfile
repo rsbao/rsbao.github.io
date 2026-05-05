@@ -1,4 +1,4 @@
-FROM ruby:latest
+FROM ruby:3.3-slim
 ENV DEBIAN_FRONTEND noninteractive
 
 Label MAINTAINER Amir Pourmand
@@ -30,7 +30,7 @@ ADD Gemfile /srv/jekyll
 WORKDIR /srv/jekyll
 
 # install jekyll and dependencies
-RUN gem install jekyll bundler
+RUN gem install --no-document jekyll bundler
 
 RUN bundle install --no-cache
 # && rm -rf /var/lib/gems/3.1.0/cache
