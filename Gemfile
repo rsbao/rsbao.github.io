@@ -12,6 +12,7 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
+    gem 'jekyll-socials'
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
     gem 'jekyll-toc'
@@ -25,4 +26,7 @@ group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
+    gem 'logger'
+    gem 'observer'
+    gem 'ostruct'
 end

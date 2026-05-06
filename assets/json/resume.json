@@ -5,20 +5,23 @@
     "image": "",
     "email": "rsbao2@illinois.edu",
     "phone": "240-750-7079",
-    // "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://rsbao.github.io",
     // "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Urbana",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "robert-bao",
+        "url": "https://www.linkedin.com/in/robert-bao/"
+      },
+      {
+        "network": "GitHub",
+        "username": "rsbao",
+        "url": "https://github.com/rsbao"
       }
     ]
   },
