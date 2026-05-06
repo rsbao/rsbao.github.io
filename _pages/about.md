@@ -2,18 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS ECE @ <a href='https://ece.illinois.edu/'>UIUC</a>
+subtitle: MTS @ <a href='https://www.etched.com/'>Etched</a> | BS/MS ECE @ <a href='https://ece.illinois.edu/'>UIUC</a>
 
 profile:
   align: right
-  image: headshot.jpeg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true
+  limit: 5
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -23,4 +26,4 @@ social: true # includes social icons at the bottom of the page
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-Hi, I'm Robert! Originally from Maryland, I now find myself amidst cornfields studying how to most effectively turn rocks into computers. I graduated from UIUC with a Bachelor's in Computer Engineering + Highest Honors in three years and am currently pursuing an MS in ECE. I am advised by [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/).
+Hi, I'm Robert! Originally from Maryland, I now find myself amidst cornfields studying how to most effectively turn rocks into computers. I  graduated from UIUC with a Master's in ECE, where I researched the applications of emerging technologies like silicon photonics and waferscale intergration under the supervision of [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/). I previously earned a Bachelor's in Computer Engineering + Highest Honors in three years, also from UIUC.
