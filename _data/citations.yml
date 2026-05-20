@@ -1,3 +1,11 @@
 metadata:
-  last_updated: '2026-05-05'
-papers: {}
+  last_updated: '2026-05-20'
+papers:
+  oYQLCO4AAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: 'Waferscale Silicon Photonics Systems: A Cost-Benefit Analysis and Optimization'
+    year: '2025'
+  oYQLCO4AAAAJ:u5HHmVD_uO8C:
+    citations: 10
+    title: Towards a System Architecture for Connected Physical and Digital Reminders Using Embodied Objects for People with Dementia
+    year: '2023'
